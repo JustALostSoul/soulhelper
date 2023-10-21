@@ -3,7 +3,7 @@
 	"package": "soulback.soulhelper.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"OnServerMessageReceivedMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
